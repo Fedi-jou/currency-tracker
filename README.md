@@ -1,6 +1,6 @@
 # You dont need to check other websites to check the new Currencies values 
 ## Use this Api and build your own curreny tracker 
-### [ Api ] ( https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false )
+[Api] (https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false)
 
 
 # Getting Started with Create React App
